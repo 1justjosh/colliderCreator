@@ -1,0 +1,5 @@
+RES = WIDTH, HEIGHT = 1080, 720
+TITLE = "Collider Editor"
+
+FPS_CAP = 120
+BG_COLOR = (10, 40, 80)
